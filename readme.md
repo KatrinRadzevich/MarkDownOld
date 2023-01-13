@@ -44,3 +44,6 @@ ________________
    __________
    # Картинка
    ![картинка](https://sites.google.com/site/prirodanasevseegooglgfgf/_/rsrc/1463456237313/home/priroda_gory_nebo_ozero_oblaka_81150_1920x1080.jpg)
+   __________
+   # Гифка
+   ![гифка](https://i.gifer.com/origin/36/361a03dd698beec5780a2f66e6c24414_w200.gif)
