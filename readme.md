@@ -47,3 +47,6 @@ ________________
    __________
    # Гифка
    ![гифка](https://i.gifer.com/origin/36/361a03dd698beec5780a2f66e6c24414_w200.gif)
+   ___________
+   # Ссылка на видео
+   [cool guy](https://www.youtube.com/watch?v=NXNf9aYTCZ0)
