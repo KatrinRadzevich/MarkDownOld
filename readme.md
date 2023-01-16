@@ -50,3 +50,5 @@ ________________
    ___________
    # Ссылка на видео
    [cool guy](https://www.youtube.com/watch?v=NXNf9aYTCZ0)
+   _____________________
+   ![gif](https://media.tenor.com/YJkakTk15r8AAAAC/spasibo-pushen.gif)
