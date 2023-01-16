@@ -52,3 +52,6 @@ ________________
    [cool guy](https://www.youtube.com/watch?v=NXNf9aYTCZ0)
    _____________________
    ![gif](https://media.tenor.com/YJkakTk15r8AAAAC/spasibo-pushen.gif)
+   ____________
+   Файл подготовлен студентом
+   ![Привет,это я](ev-dZKQ5ZHQ.jpg)
